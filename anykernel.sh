@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Kernel by keremgokcek
+kernel.string=tucana kernel for Android 13 --with KSU--
 do.devicecheck=1
 do.modules=0
 do.systemless=0
